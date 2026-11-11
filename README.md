@@ -1,16 +1,15 @@
-## Hi there 👋
+## Elprisverktyget
 
-<!--
-**elprisverktyget/elprisverktyget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Elprisverktyget visar spotpriset på el idag och imorgon, kvart för kvart, för elområde SE1–SE4: https://elprisverktyget.se
 
-Here are some ideas to get you started:
+- Widget för andra webbplatser, utan kakor: https://elprisverktyget.se/widget
+- Kalenderflöden (ICS) med dygnets billigaste timmar: https://elprisverktyget.se/kalender
+- Dagens och morgondagens priser som JSON: https://elprisverktyget.se/api/prices.json
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Elpriserna kommer från Elpriset just nu.se.
+
+
+
+
+
+
